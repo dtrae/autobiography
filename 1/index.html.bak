@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title> My Autobiography </title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body background = "img/me.png">
+<div class="me">
+<div class="content">
+<span class="title"> AUTOBIOGRAPHY </span>
+<h1> Hello, I'm <span>Trisha Mae Gelizon</span></h1>
+<p> I was born on the 25th of August, 2001 in Nasipit, Agusan del Norte, Philippine. My hobby is playing online games and watching movies. My father's name is Ruben C. Bergado and my mother's name is Marinel G. Bergado.</p>
+<p> I am the one who has big dream. Always trying for to reach big achievement. But, my lazyness always try to destroy my spirit. One of my weakness is I am not a person who has confidence. </p>
+</div>
+</div>
+</body>
+
+</html>
